@@ -1,0 +1,7 @@
+[
+{"id":293813551,"name":"Викусик","coordinates":{"x":3.0,"y":3.0},"creationDate":{"date":{"year":2020,"month":2,"day":12},"time":{"hour":15,"minute":59,"second":29,"nano":574000000}},"height":164.0,"passportID":"Николай,Николай,Коооля","hairColor":"RED","nationality":"UNITED_KINGDOM","location":{"x":1,"y":2,"name":"Дыбенко"}},
+{"id":293842451,"name":"Fialka","coordinates":{"x":1.0,"y":11214.0},"creationDate":{"date":{"year":2020,"month":3,"day":5},"time":{"hour":13,"minute":2,"second":9,"nano":682000000}},"height":1441214.0,"hairColor":"RED","nationality":"UNITED_KINGDOM","location":{"x":13,"y":11,"name":"Peter"}},
+{"id":401243650,"name":"Николай","coordinates":{"x":3.0,"y":12.0},"creationDate":{"date":{"year":2020,"month":2,"day":12},"time":{"hour":22,"minute":1,"second":48,"nano":845000000}},"height":169.0,"passportID":"Викусик","hairColor":"WHITE","nationality":"ITALY","location":{"x":34,"y":23,"name":"Купчино"}},
+{"id":861262551,"name":"Мария","coordinates":{"x":2.0,"y":3.0},"creationDate":{"date":{"year":2020,"month":2,"day":21},"time":{"hour":1,"minute":36,"second":41,"nano":870000000}},"height":22.0,"passportID":"АчинскМояЛюбовь","hairColor":"RED","nationality":"UNITED_KINGDOM","location":{"x":2,"y":2,"name":"Шушары"}},
+{"id":401257350,"name":"13","coordinates":{"x":13.0,"y":13.0},"creationDate":{"date":{"year":2020,"month":3,"day":5},"time":{"hour":0,"minute":32,"second":12,"nano":727000000}},"height":13.0,"hairColor":"RED","location":{"x":13,"y":1}}
+]
